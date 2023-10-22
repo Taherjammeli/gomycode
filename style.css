@@ -1,0 +1,410 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500&display=swap');
+
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+.navbar-brand {
+    color: black;
+    font-size: 30px;
+}
+
+.nav-link {
+    margin-left: 90px;
+}
+
+.container2 {
+    width: 80vw;
+    margin: auto;
+}
+
+.block {
+
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    font-family: 'Orbitron', sans-serif;
+
+}
+
+.block2 {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+.element {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.taksim img {
+    height: 360px;
+    width: 370px;
+    margin-top: 20px;
+}
+
+.taksim h6 {
+    margin-top: 1px;
+}
+
+.aa {
+    display: flex;
+    height: 25px;
+}
+
+.taksim2 img {
+    height: 360px;
+    width: 370px;
+    margin-top: 20px;
+}
+
+.taksim2 h6 {
+    margin-top: 1px;
+}
+
+.aa {
+    display: flex;
+    height: 25px;
+}
+
+.taksim3 img {
+    height: 360px;
+    width: 370px;
+    margin-top: 20px;
+}
+
+.taksim3 h6 {
+    margin-top: 1px;
+}
+
+.aa {
+    display: flex;
+    height: 25px;
+}
+
+.element2 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.taksim4 img {
+    height: 360px;
+    width: 370px;
+    margin-top: 20px;
+}
+
+.taksim4 h6 {
+    margin-top: 1px;
+}
+
+.aa {
+    display: flex;
+    height: 25px;
+}
+
+.taksim5 img {
+    height: 360px;
+    width: 370px;
+    margin-top: 20px;
+}
+
+.taksim5 h6 {
+    margin-top: 1px;
+}
+
+.aa {
+    display: flex;
+    height: 25px;
+}
+
+.taksim6 img {
+    height: 360px;
+    width: 370px;
+    margin-top: 20px;
+}
+
+.taksim6 h6 {
+    margin-top: 1px;
+}
+
+.aa {
+    display: flex;
+    height: 25px;
+}
+
+.bottle img {
+    height: 360px;
+    width: 370px;
+    margin-top: 20px;
+}
+
+.bottle h6 {
+    margin-top: 1px;
+}
+
+.aa {
+    display: flex;
+    height: 25px;
+}
+
+.bottle img {
+    height: 360px;
+    width: 370px;
+    margin-top: 20px;
+}
+
+.element3 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.bottle h6 {
+    margin-top: 1px;
+}
+
+.aa {
+    display: flex;
+    height: 25px;
+}
+
+.bottle2 img {
+    height: 360px;
+    width: 370px;
+    margin-top: 20px;
+}
+
+.bottle2 h6 {
+    margin-top: 1px;
+}
+
+.aa {
+    display: flex;
+    height: 25px;
+}
+
+.bottle3 img {
+    height: 360px;
+    width: 370px;
+    margin-top: 20px;
+}
+
+.bottle3 h6 {
+    margin-top: 1px;
+}
+
+.aa {
+    display: flex;
+    height: 25px;
+}
+
+.element4 {
+    display: flex;
+    justify-content: center;
+
+}
+
+.altera {
+    margin-top: 60px;
+    border: 2px solid white;
+    padding: 20px;
+    height: 350px;
+    width: 600px;
+    background-color: #e7e7e7;
+
+
+}
+
+.altera img {
+    height: 200px;
+    width: 200px;
+    margin-left: 200px;
+
+}
+
+.shop-button {
+    background-color: #000;
+    /* Couleur de fond noire */
+    color: #fff;
+    /* Couleur du texte blanche */
+    padding: 10px 20px;
+    /* Espacement autour du texte */
+    border: none;
+    /* Supprime la bordure */
+    border-radius: 5px;
+    /* Coins arrondis */
+    font-size: 16px;
+    /* Taille du texte */
+    text-transform: uppercase;
+    /* Met le texte en majuscules */
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+.sac img {
+    height: 200px;
+    width: 200px;
+    margin-left: 200px;
+}
+
+.sac {
+    margin-top: 60px;
+    border: 2px solid white;
+    padding: 20px;
+    height: 350px;
+    width: 600px;
+    background-color: #e7e7e7;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.element5 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.best {
+    margin-left: 10px;
+}
+
+.best img {
+    height: 300px;
+    width: 300px;
+    margin-top: 20px;
+}
+
+.best h6 {
+    margin-top: 1px;
+}
+
+.aa {
+    display: flex;
+    height: 25px;
+}
+
+.best2 img {
+    height: 300px;
+    width: 300px;
+    margin-top: 20px;
+}
+
+.best2 h6 {
+    margin-top: 1px;
+}
+
+.aa {
+    display: flex;
+    height: 25px;
+}
+
+.best3 img {
+    height: 300px;
+    width: 300px;
+    margin-top: 20px;
+}
+
+.best3 h6 {
+    margin-top: 1px;
+}
+
+.aa {
+    display: flex;
+    height: 25px;
+}
+
+.best4 img {
+    height: 300px;
+    width: 300px;
+    margin-top: 20px;
+}
+
+.best4 h6 {
+    margin-top: 1px;
+}
+
+.aa {
+    display: flex;
+    height: 25px;
+}
+
+
+.carousel-inner img {
+    max-width: 200%;
+    max-height: 550px;
+    margin: 0 auto;
+    margin-top: 60px;
+}
+
+.container3 {
+    width: 95vw;
+    margin: auto;
+}
+
+.follow {
+    margin-top: 30px;
+    margin-left: 15px;
+}
+
+.follow p {
+    color: gray;
+}
+
+.subscription-form {
+    display: flex;
+    align-items: center;
+}
+
+input[type="email"] {
+    padding: 10px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    font-size: 16px;
+    width: 250px;
+}
+
+.subscribe-button {
+    background-color: #000;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin-left: 10px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+
+.subscribe-button:hover {
+    background-color: #333;
+}
+
+.fin {
+    display: flex;
+    justify-content: space-around;
+}
+
+.hot {
+    margin-top: 30px;
+    margin-left: 15px;
+}
+
+.hot p {
+    color: gray;
+}
+
+.sign {
+    margin-top: 30px;
+    margin-left: 15px;
+}
+
+.sign p {
+    color: gray;
+}
